@@ -10,15 +10,15 @@
 [![PySpark](https://img.shields.io/badge/pyspark-0176D3?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F1C912?style=for-the-badge&logo=powerbi&logoColor=fff)](https://powerbi.microsoft.com/)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chinmayamishra2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=chinmayamishra2001&show_icons=true&theme=gruvbox)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chinmayamishra2001&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayamishra2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chinmayamishra2001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=chinmayamishra2001&theme=gruvbox)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=chinmayamishra2001&limit=5&theme=dark&combine_all_yearly_contributions=true)
