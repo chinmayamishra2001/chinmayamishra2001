@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align="center">🌟 About Me</h1>
 🔭 I’m currently working on Netflix Clone.<br>👯 I’m looking to collaborate on Web Applications.<br>🤝 I’m looking for help with Frontend, Framework, Design, Database.<br>🌱 I’m currently learning Java Full Stack, Frontend, Database.<br>💬 Ask me about Open Source Projects.<br>⚡ Fun fact : The first computer mouse was made of wood.
 
 
