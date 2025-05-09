@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hello,+I'm+chinmayamishra2001!;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+</p>
 <h1 align="center">🌟 About Me</h1>
 🔭 I’m currently working on Netflix Clone.<br>👯 I’m looking to collaborate on Web Applications.<br>🤝 I’m looking for help with Frontend, Framework, Design, Database.<br>🌱 I’m currently learning Java Full Stack, Frontend, Database.<br>💬 Ask me about Open Source Projects.<br>⚡ Fun fact : The first computer mouse was made of wood.
 
@@ -21,7 +24,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chinmayamishra2001&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=chinmayamishra2001&theme=react-dark)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
