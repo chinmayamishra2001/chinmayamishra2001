@@ -27,7 +27,7 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=chinmayamishra2001&theme=react-dark)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chinmayamishra2001&icon=0&color=0)](https://visitcount.itsvg.in)
